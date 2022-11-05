@@ -12,7 +12,7 @@ function Footer() {
                         <a href="/">HNG Internship 9 Frontend Task</a>
                     </div>
                     <div className="ingress">
-                        <img src="i4G.png" alt="" className="ingress" />
+                        <img src="ingress.png" alt="" className="ingress" />
                     </div>
                 </div>
             </div>
